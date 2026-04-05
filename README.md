@@ -10,11 +10,11 @@ A modern, decision-driven finance dashboard built to help users **understand, tr
 
 ## 📦 Repository
 
-🔗 https://github.com/your-username/finance-dashboard
+🔗 https://github.com/ne3l9/finance-dashboard-ui
 
 ## 🎥 Demo Walkthrough
 
-🔗 [https://loom.com/your-demo-video](https://www.loom.com/share/20496e06c26e49cda447f598a3b0b608)
+🔗 https://www.loom.com/share/20496e06c26e49cda447f598a3b0b608
 
 ---
 
