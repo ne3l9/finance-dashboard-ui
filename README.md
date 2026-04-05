@@ -6,7 +6,7 @@ A modern, decision-driven finance dashboard built to help users **understand, tr
 
 ## 🚀 Live Demo
 
-🔗 https://your-app.vercel.app
+🔗 https://finance-dashboard-mo0hunn98-neels-projects-277e0260.vercel.app/
 
 ## 📦 Repository
 
@@ -14,7 +14,7 @@ A modern, decision-driven finance dashboard built to help users **understand, tr
 
 ## 🎥 Demo Walkthrough
 
-🔗 https://loom.com/your-demo-video
+🔗 [https://loom.com/your-demo-video](https://www.loom.com/share/20496e06c26e49cda447f598a3b0b608)
 
 ---
 
